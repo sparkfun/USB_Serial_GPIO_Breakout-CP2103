@@ -4395,6 +4395,7 @@ Source: www.silabs.com .. CP2103.pdf. Spark Fun Electronics SKU : COM-00309</des
 <sheets>
 <sheet>
 <plain>
+<text x="241.3" y="7.62" size="1.27" layer="94">v11</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
